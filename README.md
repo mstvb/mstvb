@@ -7,19 +7,30 @@
 
 > My Projects
 
-  - TeamChat | available on Github | Bukkit Plugin on Java
-  - LobbySystem | available on Github | Bukkit Plugin on Java
-  - ReforgeCloud | not released on Github | Python
-
+  - #### *TeamChat | available on Github | Bukkit Plugin*
+    > Chat System for Serverteam on Minecraft Servers
+      
+  - #### *LobbySystem | available on Github | Bukkit Plugin*
+    > Lobbysystem for Minecraft Servers
+  
+  - #### *ReforgeCloud | not released | Python*
+    > Dynamic Server Management System
+      
+  - #### *micro_connect | not released | micro:bit*
+    > Extension for Connection between micro:bit Devices
+      
 > ### Themes / Templates 
 
-  - Python Template | available on Github
+  - #### *Python Template | available on Github*
     
-    - License included
-    - Readme.md included
-    - Github Project Included
+    > License included
+    
+    > Readme.md included
+    
+    > Github Project Included
       
-  - Themes | available on replit.com
+  - #### *Themes | available on replit.com*
      
-    - Python Eye Shadow (Dark Theme)
-    - Sunshine Eye Shadow (Light Theme)
+    > Python Eye Shadow (Dark Theme)
+    
+    > Sunshine Eye Shadow (Light Theme)
