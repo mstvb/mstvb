@@ -5,7 +5,7 @@
   - ☎️ | Connect with Me (manuel.staufervb@gmail.com)
   - 💰 | I want a Full-Time Job as Developer
 
-> My Projects
+> ### My Projects
 
   - #### *TeamChat | [available on Github](https://github.com/mstvb/reforgeteamchat) | Bukkit Plugin*
     > Chat System for Serverteam on Minecraft Servers
