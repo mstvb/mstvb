@@ -21,16 +21,6 @@
       - maintenance | Command | Set Maintenance On / Off
       - InventoryManager | API | Manage Inventorys for Players
       - ItemManager | API | Create / Manage Items
-  
-  - #### *ReforgeCloud | not released | Python*
-    > Dynamic Server Management System
-      
-      - Wrapper | Server Instance
-      - Master | Controlling Server Instance
-      - Plugin API | Extensions, Web Services
-      
-  - #### *micro_connect | not released | micro:bit*
-    > Extension for Connection between micro:bit Devices
       
 > ### My Themes / Templates 
 
