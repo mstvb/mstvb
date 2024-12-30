@@ -22,18 +22,9 @@
       - InventoryManager | API | Manage Inventorys for Players
       - ItemManager | API | Create / Manage Items
       
-> ### My Themes / Templates 
+> ### My Templates
 
-  - #### *Python Template | available on Github*
+  - #### *Changelog Style Template | on gist.github.com*
+
+  - #### *Python Style Template | on gist.github.com*
     
-    > License included
-    
-    > Readme.md included
-    
-    > Github Project Included
-      
-  - #### *Themes | available on replit.com*
-     
-    > [Python Eye Shadow](https://replit.com/theme/@lwc/python-eye-shadow) (Dark Theme)
-    
-    > [Sunshine Eye Shadow](https://replit.com/theme/@lwc/sunshine-eye-shadow) (Light Theme)
