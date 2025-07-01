@@ -1,30 +1,36 @@
-> ### Manuel Staufer (@mstvb)
-
+### Manuel Staufer | [@mstvb](https://github.com/mstvb)
   - 💻 | Programming Languages: Python, Java
-  - ✈️ | Located in Austria (Upperaustria)
+  - ✈️ | Located in Austria
   - ☎️ | Connect with Me (manuel.staufervb@gmail.com)
-  - 💰 | I want a Full-Time Job as Developer
+  - 💰 | I want a Job as Developer
+<!--
+### Co-Projects
 
-> ### My Projects
+- #### *kontainer-core for [fm-labs](https://github.com/fm-labs) | [Github](https://github.com/fm-labs/kontainer-core) | Docker API Management* 
+    > API for Docker Containers
+-->  
+### My Projects
 
-  - #### *TeamChat | [available on Github](https://github.com/mstvb/reforgeteamchat) | Bukkit Plugin*
-    > Chat System for Serverteam on Minecraft Servers
-
-      - Login | Command | Login to TeamChat
-      - Logout | Command | Logout from TeamChat
-      - List | Command | List Status of all Team Members
-      - Notify | Command | Set Notification On / Off
+  - #### *TeamChat | [Github](https://github.com/mstvb/reforgeteamchat) | Bukkit Plugin*
+    > Chat System for Minecraft Servers
       
-  - #### *LobbySystem | [available on Github](https://github.com/mstvb/reforgelobbysystem) | Bukkit Plugin*
+  - #### *LobbySystem | [Github](https://github.com/mstvb/reforgelobbysystem) | Bukkit Plugin*
     > Lobbysystem for Minecraft Servers
+  
+  - #### *ForgeAPI | [Github](https://github.com/mstvb/forgeapi) | API*
+    > API for Game Logic | User-Management
 
-      - maintenance | Command | Set Maintenance On / Off
-      - InventoryManager | API | Manage Inventorys for Players
-      - ItemManager | API | Create / Manage Items
-      
-> ### My Templates
+  - #### *ReforgeCloud | [Github](https://github.com/mstvb/reforgecloud) | Server Management*
+    > Dynamic Performance Server Management
 
-  - #### *Changelog Style Template | on gist.github.com*
+### My Templates
 
-  - #### *Python Style Template | on gist.github.com*
-    
+  - #### *Changelog Template | [Gist](https://gist.github.com/mstvb) | Github Gists*
+
+  - #### *Roadmap Template | [Gist](https://gist.github.com/mstvb) | Github Gists*
+
+  - #### *Readme Template | [Gist](https://gist.github.com/mstvb) | Github Gists*
+
+  - #### *Python Style Template | [Gist](https://gist.github.com/mstvb) |  Github Gists*
+
+> #### 
