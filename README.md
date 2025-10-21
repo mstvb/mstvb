@@ -6,6 +6,8 @@
 ## My Skills
 
 ### IDE
+  - `IntelliJ Idea`
+  - `Pycharm`
   - `Fleet`
   - `Visual Studio Code`
 
