@@ -1,9 +1,14 @@
-## Manuel Staufer
-  - 💻 | Programming Languages: Python || GDScript || Lua
-  - ✈️ | Located in Upperaustria
----
+# About Me
 
-## My Skills
+> Manuel Staufer (mstvb)
+* [Github](https://github.com/mstvb)
+* [Email](mailto::manuel.staufervb@gmail.com)
+
+### Programming Languages 💻
+  - `Python`
+  - `Java`
+  - `GDScript`
+  - `Lua`
 
 ### IDE
   - `IntelliJ Idea`
@@ -11,16 +16,12 @@
   - `Fleet`
   - `Visual Studio Code`
 
-### Languages
-  - `Lua`
-  - `Python`
-  - `GDScript`
-
 ### Operating Systems
   - `Unbuntu`
   - `Windows`
 
 ### Version Control
+  - `Git`
   - `Github`
 
 ### Tools
@@ -40,13 +41,5 @@
     > Dynamic Performance Management
 
 ---
-
-### My Templates
-
-  - #### *[CHANGELOG](https://gist.github.com/mstvb)*
-
-  - #### *[ROADMAP](https://gist.github.com/mstvb)*
-
-  - #### *[README](https://gist.github.com/mstvb)* 
 
 > #### 
